@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/eth_timmy" target="blank"><img src="https://img.shields.io/twitter/follow/eth_timmy?logo=twitter&style=for-the-badge" alt="eth_timmy" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Javascript**
 
 - 📫 How to reach me **ojotimothy04@gmail.com**
 
